@@ -1,13 +1,13 @@
-Hello👋
-<ul>
-  <li>🔭 I’m currently studying on Computeer Engineering !</li>
-  <li>🌱 I’m currently learning Java,C#, Angular</li>
-  <li>📫 How to reach me: <a href='alperenkarakus062002@gmail.com'>alperenkarakus062002@gmail.com</a>---></li>
-</ul>
+### Hi there 👋
 
 
 
-<!---
-m-alperen-karakus/m-alperen-karakus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently studying on Computeer Engineering !
+- 🌱 I’m currently learning Java,C#, Angular
+- 📫 How to reach me: alperenkarakus06200@gmail.com
+- 📫 How to reach me: alperen@1453.pro
+
+-->
+
+### Visit my LinkedIn :)
+ ---- https://www.linkedin.com/in/berke-er%C3%A7etin-a45b5b211/
