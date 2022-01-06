@@ -2,7 +2,7 @@ Hello👋
 <ul>
   <li>🔭 I’m currently studying on Computeer Engineering !</li>
   <li>🌱 I’m currently learning Java,C#, Angular</li>
-  <li>📫 How to reach me:'--->' alperenkarakus062002@gmail.com</li>
+  <li>📫 How to reach me:---> alperenkarakus062002@gmail.com</li>
 </ul>
 
 
