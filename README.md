@@ -1,9 +1,9 @@
 
-<li>
-<ul>🔭 I’m currently studying on Computeer Engineering !</ul>
-<ul>🌱 I’m currently learning Java,C#, Angular</ul>
-<ul📫 How to reach me: alperenkarakus062002@gmail.com -->></ul>
-</li>
+<ul>
+  <li>🔭 I’m currently studying on Computeer Engineering !</li>
+  <li>🌱 I’m currently learning Java,C#, Angular</li>
+  <li📫 How to reach me: alperenkarakus062002@gmail.com -->></li>
+</ul>
 
 
 
