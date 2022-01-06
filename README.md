@@ -10,4 +10,4 @@
 -->
 
 ### Visit my LinkedIn :)
- ---- https://www.linkedin.com/in/berke-er%C3%A7etin-a45b5b211/
+ ---- https://www.linkedin.com/in/mustafa-alperen-karaku%C5%9F-0937b81b8/
